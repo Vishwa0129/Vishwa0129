@@ -85,7 +85,7 @@ const Contact: React.FC<ContactProps> = ({ theme }) => {
             <h4 className={`text-lg font-medium mb-4 ${theme === 'dark' ? 'text-white' : 'text-gray-900'}`}>Follow Me</h4>
             <div className="flex space-x-4">
               <a 
-                href="#" 
+                href="https://github.com/Vishwa0129" 
                 className={`p-3 rounded-lg transition-colors ${
                   theme === 'dark' 
                     ? 'bg-gray-800 text-white hover:bg-gray-700' 
@@ -95,7 +95,7 @@ const Contact: React.FC<ContactProps> = ({ theme }) => {
                 <Github size={24} />
               </a>
               <a 
-                href="#" 
+                href="https://www.linkedin.com/in/vishwa-teja-3a78a0283/" 
                 className={`p-3 rounded-lg transition-colors ${
                   theme === 'dark' 
                     ? 'bg-gray-800 text-white hover:bg-gray-700' 
